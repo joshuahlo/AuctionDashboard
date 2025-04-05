@@ -1,9 +1,9 @@
 # Auction Data Insights Interactive Dashboard
 
-## [Dashboard Link](https://public.tableau.com/app/profile/siddharth.pradeep/viz/AuctionDataInsights/Executivesummary)
+## [Tableau Dashboard Link](https://public.tableau.com/app/profile/siddharth.pradeep/viz/AuctionDataInsights/Executivesummary)
 
 ## Description
-An interactive dashboard containing various insights on an auction dataset, including insights on buyers and sellers, revenue, strategy, geographical/regional performance, and more. 
+An interactive Tableau dashboard containing various insights on an auction dataset, including insights on buyers and sellers, revenue, strategy, geographical/regional performance, and more. 
 Note: the first page is a home page. Click on the icons to go to one of the dashboards. Press the home button to go back to the home page.
 
 ## Collaborated with:
